@@ -1,5 +1,5 @@
 # hello-world
-the first repository
+
 编程的理由：
 (0) 在中国，对绝大多数人来说，English + Computer Skills = Freedom
 (1) 程序设计也许是目前地球上最容易变现、最被高估、可事实上却实际上并不难以获得的技能。
